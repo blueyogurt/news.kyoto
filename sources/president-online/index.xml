@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>京都ニュースアンテナ - スマホでみやすいシンプルまとめ </title>
+    <link>http://news.kyoto.yogurt.blue/sources/president-online/</link>
+    <description>Recent content in PRESIDENT Online on 京都ニュースアンテナ - スマホでみやすいシンプルまとめ</description>
+    
+    <language>ja-JP</language>
+    
+    
+    <rights>(C) 2016</rights>
+    <updated>2016-06-25 05:00:00 &#43;0000 UTC</updated>
+    
+    <lastBuildDate>Sat, 25 Jun 2016 05:00:00 +0000</lastBuildDate>
+    
+    <docs>http://news.kyoto.yogurt.blue/sources/president-online/index.xml</docs>
+    <atom:link href="http://news.kyoto.yogurt.blue/sources/president-online/index.xml" rel="self" type="application/rss+xml" />
+
+    
+      
+        <item>
+          <title>どっちがワル？ 舛添元都知事のような「介護しない」兄弟vs.「財産目当てで介護」兄弟</title>
+          <link>http://news.kyoto.yogurt.blue/post/dotchigawarumasusoemototochijinoyounakaigoshinaikyoudaivszaisanmeatedekaigokyoudai/</link>
+          <pubDate>Sat, 25 Jun 2016 05:00:00 UTC</pubDate>
+          
+          <guid>http://news.kyoto.yogurt.blue/post/dotchigawarumasusoemototochijinoyounakaigoshinaikyoudaivszaisanmeatedekaigokyoudai/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>都知事選のウラ側「舛添と石原とを結ぶ『公私混同疑惑』」</title>
+          <link>http://news.kyoto.yogurt.blue/post/tochijisennouragawamasusotoishiharatowomusubukoushikondougiwaku/</link>
+          <pubDate>Fri, 24 Jun 2016 08:00:00 UTC</pubDate>
+          
+          <guid>http://news.kyoto.yogurt.blue/post/tochijisennouragawamasusotoishiharatowomusubukoushikondougiwaku/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

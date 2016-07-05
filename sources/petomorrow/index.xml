@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>京都ニュースアンテナ - スマホでみやすいシンプルまとめ </title>
+    <link>http://news.kyoto.yogurt.blue/sources/petomorrow/</link>
+    <description>Recent content in PETomorrow on 京都ニュースアンテナ - スマホでみやすいシンプルまとめ</description>
+    
+    <language>ja-JP</language>
+    
+    
+    <rights>(C) 2016</rights>
+    <updated>2016-06-23 12:00:48 &#43;0000 UTC</updated>
+    
+    <lastBuildDate>Thu, 23 Jun 2016 12:00:48 +0000</lastBuildDate>
+    
+    <docs>http://news.kyoto.yogurt.blue/sources/petomorrow/index.xml</docs>
+    <atom:link href="http://news.kyoto.yogurt.blue/sources/petomorrow/index.xml" rel="self" type="application/rss+xml" />
+
+    
+      
+        <item>
+          <title>みんなも当てはまる？「我が家のお散歩あるある」をまとめました！</title>
+          <link>http://news.kyoto.yogurt.blue/post/minnamoatehamaruwagayanoosanpoaruaruwomatomemashita/</link>
+          <pubDate>Thu, 23 Jun 2016 12:00:48 UTC</pubDate>
+          
+          <guid>http://news.kyoto.yogurt.blue/post/minnamoatehamaruwagayanoosanpoaruaruwomatomemashita/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
